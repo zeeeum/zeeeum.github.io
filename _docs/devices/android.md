@@ -4,7 +4,7 @@ category: Devices
 order: 2
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
+Use ChatApp on all of your Android devices. Every version is supported. (CIN)
 
 To install ChatApp on your device:
 
